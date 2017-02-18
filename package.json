@@ -1,0 +1,18 @@
+{
+  "name": "resideDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Yury Layeuski",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "nightmare": "^2.7.0",
+    "nightmare-iframe-manager": "latest"
+  }
+}
+  
